@@ -1,6 +1,6 @@
 # Dexcom G5 Everywhere
 
-Xposed mod that allows to use the Dexcom G5 mobile app (region1, mgdl) with any device.
+Xposed mod that allows to use the Dexcom G5 mobile app (region 1 & 2, mgdl & mmol) with any device.
 
 ## Disclaimer
 
